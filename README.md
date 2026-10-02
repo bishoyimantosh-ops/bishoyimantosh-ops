@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Mantosh
 
-<!--
-**bishoyimantosh-ops/bishoyimantosh-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning C, Python & Web Development  
+🚀 Building projects and improving my programming skills
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- C Programming
+- Problem Solving
+- Data Structures
+- Web Development
+- Git & GitHub
+
+## 🎯 My Goal
+
+To become a skilled software developer by learning consistently,
+building real-world projects, and improving every day.
+
+---
+
+⭐ Thanks for visiting my profile!
